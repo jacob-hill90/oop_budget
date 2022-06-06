@@ -1,4 +1,4 @@
-from category import Catergory
+from modules.category import Category
 
 class Transaction:
     def __init__(self, amount, category, month):

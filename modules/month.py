@@ -1,15 +1,15 @@
 from enum import Enum
 
 class Month(Enum):
-    JAN = 0
-    FEB = 1
-    MAR = 2
-    APR = 3
-    MAY = 4
-    JUN = 5
-    JUL = 6
-    AUG = 7
-    SEP = 8
-    OCT = 9
-    NOV = 10
-    DEC = 11
+    January = 1
+    February = 2
+    March = 3
+    April = 4
+    May = 5
+    June = 6
+    July = 7
+    August = 8
+    September = 9
+    October = 10
+    November = 11
+    December = 12
